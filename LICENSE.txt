@@ -1,0 +1,156 @@
+========================================================================
+СРПСКИ (Ћирилица) — ЛИЦЕНЦА АПЛИКАЦИЈЕ: ВЛАСНИЧКИ БЕСПЛАТНИ СОФТВЕР
+========================================================================
+Ауторска права (c) 2026 cvekiboy. Сва права задржана.
+
+1. ДОДЕЛА ЛИЦЕНЦЕ
+Ова софтверска апликација ("Софтвер") вам се уступа бесплатно за личну, 
+образовну или интерну пословну употребу. Одобрена вам је неексклузивна, 
+непреносива лиценца за преузимање, инсталацију и покретање компајлираних 
+извршних бинарних фајлова апликације.
+
+2. ОГРАНИЧЕЊА
+Није вам дозвољено да:
+- Декомпајлирате, растављате, вршите реверзибилни инжењеринг или на било 
+  који други начин покушавате да откријете изворни код Софтвера.
+- Модификујете, прилагођавате или креирате дериватна дела од бинарних 
+  фајлова Софтвера.
+- Продајете, изнајмљујете, дајете у закуп или подлиценцирате Софтвер 
+  ради остваривања комерцијалног профита.
+- Дистрибуирате бинарне фајлове Софтвера без навођења директног линка 
+  ка овом репозиторијуму.
+
+3. ОДРИЦАЊЕ ОД ОДГОВОРНОСТИ И ГАРАНЦИЈЕ
+СОФТВЕР СЕ ИСПОРУЧУЈЕ У ВИЂЕНОМ СТАЊУ "КАКАВ ЈЕ", БЕЗ ИКАКВИХ ГАРАНЦИЈА, 
+ЕКСПЛИЦИТНИХ ИЛИ ИМПЛИЦИТНИХ. АУТОР НЕЋЕ БИТИ ОДГОВОРАН НИ ЗА КАКВА 
+ПОТРАЖИВАЊА, ШТЕТУ ИЛИ ДРУГУ ОДГОВОРНОСТ КОЈА ПРОИЗЛАЗИ ИЗ УПОТРЕБЕ 
+ОВОГ СОФТВЕРА.
+
+========================================================================
+ЛИЦЕНЦА ЗА ПОДАТКЕ: OPEN DATA COMMONS ODBL v1.0
+========================================================================
+Бинарни фајлови софтвера користе и позивају се на пратећи географски 
+ресурс (PMTiles фајл) који се налази у овом репозиторијуму.
+
+За разлику од изворног кода Софтвера, ови географски подаци представљају 
+отворене податке преузете са OpenStreetMap-а и строго су лиценцирани 
+под Open Data Commons Open Database License (ODbL) v1.0 лиценцом. 
+Погледајте DATA_LICENSE.md, TERMS_OF_SERVICE.md и PRIVACY_POLICY.md 
+за комплетне услове.
+
+
+========================================================================
+SRPSKI (Latinica) — LICENCA APLIKACIJE: VLASNIČKI BESPLATNI SOFTVER
+========================================================================
+Autorska prava (c) 2026 cvekiboy. Sva prava zadržana.
+
+1. DODELA LICENCE
+Ova softverska aplikacija ("Softver") vam se ustupa besplatno za ličnu, 
+obrazovnu ili internu poslovnu upotrebu. Odobrena vam je neekskluzivna, 
+neprenosiva licenca za preuzimanje, instalaciju i pokretanje kompajliranih 
+izvršnih binarnih fajlova aplikacije.
+
+2. OGRANIČENJA
+Nije vam dozvoljeno da:
+- Dekompajlirate, rastavljate, vršite reverzibilni inženjering ili na bilo 
+  koji drugi način pokušavate da otkrijete izvorni kod Softvera.
+- Modifikujete, prilagođavate ili kreirate derivatna dela od binarnih 
+  fajlova Softvera.
+- Prodajete, iznajmljujete, dajete u zakup ili podlicencirate Softver 
+  radi ostvarivanja komercijalnog profita.
+- Distribuirate binarne fajlove Softvera bez navođenja direktnog linka 
+  ka ovom repozitorijumu.
+
+3. ODRICANJE OD ODGOVORNOSTI I GARANCIJE
+SOFTVER SE ISPORUČUJE U VIĐENOM STANJU "KAKAV JE", BEZ IKAKVIH GARANCIJA, 
+EKSPLICITNIH ILI IMPLICITNIH. AUTOR NEĆE BITI ODGOVORAN NI ZA KAKVA 
+POTRAŽIVANJA, ŠTETU ILI DRUGU ODGOVORNOST KOJA PROIZLAZI IZ UPOTREBE 
+OVOG SOFTVERA.
+
+========================================================================
+LICENCA ZA PODATKE: OPEN DATA COMMONS ODBL v1.0
+========================================================================
+Binarni fajlovi softvera koriste i pozivaju se na prateći geografski 
+resurs (PMTiles fajl) koji se nalazi u ovom repozitorijumu.
+
+Za razliku od izvornog koda Softvera, ovi geografski podaci predstavljaju 
+otvorene podatke preuzete sa OpenStreetMap-a i strogo su licencirani 
+pod Open Data Commons Open Database License (ODbL) v1.0 licencijom. 
+Pogledajte DATA_LICENSE.md, TERMS_OF_SERVICE.md i PRIVACY_POLICY.md 
+za kompletne uslove.
+
+
+========================================================================
+MAGYAR — ALKALMAZÁS LICENC: TULAJDONOSI ÉS ZÁRT FORRÁSKÓDÚ (FREEWARE)
+========================================================================
+Copyright (c) 2026 cvekiboy. Minden jog fenntartva.
+
+1. LICENC JOGOT BIZTOSÍTÁSA
+Ezt a szoftveralkalmazást ("Szoftver") ingyenesen biztosítjuk az Ön 
+számára személyes, oktatási vagy belső üzleti használatra. Ön nem 
+kizárólagos, nem átruházható licencet kap a lefordított alkalmazás 
+bináris fájljainak letöltésére, telepítésére és futtatására.
+
+2. KORLÁTOZÁSOK
+Önnek nem megengedett a következő tevékenységek végzése:
+- A Szoftver visszafejtése, forráskódjának visszafordítása, vagy bármilyen 
+  kísérlet a szoftver forráskódjának kinyerésére.
+- A Szoftver bináris fájljainak módosítása, adaptálása vagy abból származtatott 
+  művek létrehozása.
+- A Szoftver értékesítése, bérbeadása, lízingelése vagy kereskedelmi haszon 
+  céljából történő továbblicencelése.
+- A Szoftver bináris fájljainak továbbterjesztése anélkül, hogy közvetlen 
+  linket biztosítana ehhez a repozitóriumhoz.
+
+3. JÓTÁLLÁS KIZÁRÁSA
+A SZOFTVERT JELEN ÁLLAPOTÁBAN ("AS IS") BIZTOSÍTJUK, BÁRMILYEN KIFEJEZETT 
+VAGY BENNE FOGLALT JÓTÁLLÁS NÉLKÜL. AZ SZERZŐ NEM VÁLLAL FELELŐSSÉGET 
+SEMMILYEN KÖVETELÉSÉRT, KÁRÉRT VAGY EGYÉB KÖTELEZETTSÉGÉRT, AMELY A SZOFTVER 
+HASZNÁLATÁBÓL ERED.
+
+========================================================================
+ADATLICENC: OPEN DATA COMMONS ODBL v1.0
+========================================================================
+A szoftver bináris fájljai az ebben a repozitóriumban található kísérő 
+földrajzi állományra (PMTiles fájl) hivatkoznak és azt használják.
+
+A Szoftver kódjától eltérően ez a földrajzi adat az OpenStreetMap-ről 
+származó nyílt adat, és szigorúan az Open Data Commons Open Database License 
+(ODbL) v1.0 hatálya alá tartozik. A teljes feltételeket lásd a 
+DATA_LICENSE.md, TERMS_OF_SERVICE.md és PRIVACY_POLICY.md fájlokban.
+
+
+========================================================================
+ENGLISH — APP LICENSE: PROPRIETARY & CLOSED-SOURCE (FREEWARE)
+========================================================================
+Copyright (c) 2026 cvekiboy. All rights reserved.
+
+1. LICENSE GRANT
+This software application ("Software") is provided to you free of charge 
+for personal, educational, or internal business use. You are granted a 
+non-exclusive, non-transferable license to download, install, and run the 
+compiled application binaries.
+
+2. RESTRICTIONS
+You may not:
+- Decompile, disassemble, reverse engineer, or attempt to derive the 
+  source code of the Software.
+- Modify, adapt, or create derivative works of the Software binary.
+- Sell, rent, lease, or sublicense the Software for commercial profit.
+- Redistribute the Software binaries without linking back to this repository.
+
+3. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR 
+OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+========================================================================
+DATA LICENSE: OPEN DATA COMMONS ODBL v1.0
+========================================================================
+The software binaries reference and use the companion geographic asset 
+(PMTiles file) hosted in this repository. 
+
+Unlike the Software code, this geographic data is open data sourced 
+from OpenStreetMap and is strictly licensed under the Open Data Commons 
+Open Database License (ODbL) v1.0. See DATA_LICENSE.md, TERMS_OF_SERVICE.md & 
+PRIVACY_POLICY.md for full terms.
