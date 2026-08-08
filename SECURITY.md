@@ -15,7 +15,7 @@ Select your language / Изаберите језик / Izaberite jezik / Válass
 
 | Верзија | Подржано |
 | ------- | -------- |
-| v0.1.x  | ✅ Да    |
+| v1.0.x  | ✅ Да    |
 
 ### Архитектура и безбедносни профил
 Кабасти-СУ је пројектован као потпуно независна апликација која ради у офлајн режиму.
@@ -44,7 +44,7 @@ Bezbednosne ispravke se aktivno obezbeđuju za sledeće verzije softvera:
 
 | Verzija | Podržano |
 | ------- | -------- |
-| v0.1.x  | ✅ Da    |
+| v1.0.x  | ✅ Da    |
 
 ### Arhitektura i bezbednosni profil
 Kabasti-SU je projektovan kao potpuno nezavisna aplikacija koja radi u oflajn režimu.
@@ -73,7 +73,7 @@ A biztonsági frissítések aktívan biztosítottak a következő szoftververzi�
 
 | Verzió  | Támogatott |
 | ------- | ---------- |
-| v0.1.x  | ✅ Igen    |
+| v1.0.x  | ✅ Igen    |
 
 ### Architektúra és biztonsági profil
 A Kabasti-SU egy teljesen független, offline működésű alkalmazásként lett kifejlesztve.
@@ -102,7 +102,7 @@ Security updates are actively provided for the following release tracks:
 
 | Version | Supported |
 | ------- | --------- |
-| v0.1.x  | ✅ Yes    |
+| v1.0.x  | ✅ Yes    |
 
 ### Architecture & Security Profile
 Kabasti-SU is engineered as a fully independent, offline-first application. 
