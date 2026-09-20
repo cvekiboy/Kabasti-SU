@@ -14,6 +14,30 @@ Application displaying the locations and dates for the collection and removal of
 + Trilingual support: Serbian (Cyrillic / Latin), Hungarian, and English 
 
 Note: This is an independent user utility and is not an official application of the local self-government or the public utility company.
+
+# DOWNLOADS
+
+<p align="center">
+
+  <a href="https://play.google.com/store/apps/details?id=rs.kabasti.subotica&hl=sr" target="_blank">
+    <img src="images/GooglePlay_Badge_Serbian.svg" alt="Преузмите са Google Play-а" height="55"/>
+  </a>
+&ensp; &ensp; &ensp; &ensp;
+  <a href="https://apps.microsoft.com/detail/9p4m16lrnmhb?referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
+    <img src="https://get.microsoft.com/images/sr%20dark.svg" alt="Преузмите са Microsoft-а" width="200"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cvekiboy/Kabasti-SU/releases/latest">
+    <img src="images/release_link.gif" alt="ДРУГИ ТИПОВИ ИНСТАЛАЦИЈА">
+  </a>
+</p>
+
+## WARNING
+
+To completely remove all user settings from an MS Store application after uninstallation, follow [these steps](https://gist.github.com/cvekiboy/5fd2ac0180f84997b3d0233c86df3bd8)!
+
 <details>
   <summary>🇷🇸 СРБ</summary>
 Апликација приказа позиција и датума прикупљања и одвожења кабастог отпада од стране <a href="https://www.cistoca-su.co.rs">Јавног комунланог предузећа</a> на територији града Суботице.
