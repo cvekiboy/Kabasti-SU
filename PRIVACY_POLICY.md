@@ -22,12 +22,12 @@ Kabasti-SU је дизајниран као апликација која прв
 
 Апликација користи **Google Analytics 4 (GA4)** за прикупљање ограничене статистике о коришћењу, као што је описано у одељку 3 у наставку. Због тога се апликација не може сматрати потпуно ослобођеном од аналитике или телеметрије.
 
-###Локални статус апликације
+### Локални статус апликације
 Kорисничка подешавања, конфигурација интерфејса, изабране заједнице и подешавања подсетника чувају се локално на уређају корисника, користећи локално складиште апликације и/или складиште података апликације.
 
 Ове информације се користе искључиво за очување подешавања и омогућавање функционалности апликације. Оне се намерно не отпремају (не шаљу) издавачу у оквиру уобичајеног рада подсетника и мапа.
 
-###Рад ван мреже (Оффлине)
+### Рад ван мреже (Оффлине)
 Након што се преузму или кеширају неопходни подаци о мапама и елементи апликације, апликација је дизајнирана да пружи своју основну функционалност мапа и распореда ван мреже (оффлине), свуда где су тражени локални подаци доступни.
 
 Активна интернет веза је неопходна за онлајн функције, као што су провера ажурирања апликације, преузимање ажурираних елемената и пренос аналитичких догађаја. Ове онлајн функције могу бити недоступне када је уређај ван мреже.
@@ -106,12 +106,12 @@ Izdavač, **cvekiboy**, namerno ne prikuplja imena korisnika, imejl adrese, list
 
 Aplikacija koristi **Google Analytics 4 (GA4)** za prikupljanje ograničene statistike o korišćenju, kao što je opisano u odeljku 3 u nastavku. Zbog toga se aplikacija ne može smatrati potpuno oslobođenom od analitike ili telemetrije.
 
-###Lokalni status aplikacije
+### Lokalni status aplikacije
 Korisnička podešavanja, konfiguracija interfejsa, izabrane zajednice i podešavanja podsetnika čuvaju se lokalno na uređaju korisnika, koristeći lokalno skladište aplikacije i/ili skladište podataka aplikacije.
 
 Ove informacije se koriste isključivo za očuvanje podešavanja i omogućavanje funkcionalnosti aplikacije. One se namerno ne otpremaju (ne šalju) izdavaču u okviru uobičajenog rada podsetnika i mapa.
 
-###Rad van mreže (Offline)
+### Rad van mreže (Offline)
 Nakon što se preuzmu ili keširaju neophodni podaci o mapama i elementi aplikacije, aplikacija je dizajnirana da pruži svoju osnovnu funkcionalnost mapa i rasporeda van mreže (offline), svuda gde su traženi lokalni podaci dostupni.
 
 Aktivna internet veza je neophodna za onlajn funkcije, kao što su provera ažuriranja aplikacije, preuzimanje ažuriranih elemenata i prenos analitičkih događaja. Ove onlajn funkcije mogu biti nedostupne kada je uređaj van mreže.
@@ -190,12 +190,12 @@ A kiadó, **cvekiboy**, az alkalmazás alapvető funkcióin keresztül szándék
 
 Az alkalmazás a **Google Analytics 4 (GA4)** szolgáltatást használja a korlátozott használati statisztikák gyűjtésére, a lenti 3. szakaszban leírtak szerint. Ezért az alkalmazás nem tekinthető teljesen analitika- vagy telemetriamentesnek.
 
-###Helyi alkalmazásállapot
+### Helyi alkalmazásállapot
 A felhasználói beállítások, a felület konfigurációja, a kiválasztott közösségek és az emlékeztető beállítások helyileg, a felhasználó eszközén tárolódnak az alkalmazás helyi tárhelye és/vagy alkalmazásadat-tárhelye segítségével.
 
 Ezek az információk a beállítások megőrzésére és az alkalmazás funkcióinak biztosítására szolgálnak. A szokásos emlékeztető- és térképfunkciók részeként ezek az adatok szándékosan nem kerülnek feltöltésre a kiadóhoz.
 
-###Offline működés
+### Offline működés
 A szükséges térképadatok és alkalmazásfájlok letöltése vagy gyorsítótárazása után az alkalmazást úgy tervezték, hogy alapvető térkép- és menetrend-funkcióit offline (internetkapcsolat nélkül) is biztosítsa, amennyiben a szükséges helyi adatok rendelkezésre állnak.
 
 Aktív internetkapcsolat szükséges az olyan online funkciókhoz, mint az alkalmazásfrissítések ellenőrzése, a frissített tartalmak letöltése és az analitikai események továbbítása. Ezek az online funkciók nem érhetők el, ha az eszköz offline állapotban van.
@@ -274,13 +274,13 @@ The publisher, **cvekiboy**, does not intentionally collect users' names, email 
 
 The application does use **Google Analytics 4 (GA4)** to collect limited usage statistics, as described in Section 3 below. Therefore, the application should not be considered completely free of analytics or telemetry.
 
-###Local Application State
+### Local Application State
 
 User preferences, interface configuration, selected communities, and reminder settings are stored locally on the user's device using the application's local storage and/or application data storage.
 
 This information is used to preserve settings and provide the application's features. It is not intentionally uploaded to the publisher as part of the normal reminder and map functionality.
 
-###Offline Operation
+### Offline Operation
 
 After the necessary map data and application assets have been downloaded or cached, the application is designed to provide its core map and schedule functionality offline wherever the required local data is available.
 
