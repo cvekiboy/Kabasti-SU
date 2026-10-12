@@ -88,7 +88,7 @@ Megjegyzés: Ez egy független felhasználói segédeszköz, és nem a helyi ön
 * **Лиценца за географске податке:** Аутори OpenStreetMap-а ([ODbL v1.0](DATA_LICENSE.md#српски-ћирилица))
 * **Векторске иконице**: Преузете и модификоване са сајта [SVG Repo](https://svgrepo.com) (Дистрибуиране под open-source/CC0 лиценцама)
 
-Преузимањем, инсталацијом или коришћењем ове апликације аутоматски прихватате наше Услове коришћења и Политику приватности. Апликација ради потпуно офлајн и не прикупља личне податке нити прати кориснике.
+Преузимањем, инсталацијом или коришћењем ове апликације аутоматски прихватате наше Услове коришћења и Политику приватности. Овај софтвер ради потпуно офлајн, поштује вашу приватност и не прикупља личне податке, пратећи искључиво анонимну аналитику коришћења.
 
 <div align="center">
   <a href="SUPPORT.md#српски-ћирилица">
@@ -104,7 +104,7 @@ Megjegyzés: Ez egy független felhasználói segédeszköz, és nem a helyi ön
 * **Licenca za geografske podatke:** Autori OpenStreetMap-a ([ODbL v1.0](DATA_LICENSE.md#srpski-latinica))
 * **Vektorske ikonice**: Preuzete i modifikovane sa sajta [SVG Repo](https://svgrepo.com) (Distribuirane pod open-source/CC0 licencama)
 
-Preuzimanjem, instalacijom ili korišćenjem ove aplikacije automatski prihvatate naše Uslove korišćenja i Politiku privatnosti. Aplikacija radi potpuno oflajn i ne prikuplja lične podatke niti prati korisnike.
+Preuzimanjem, instalacijom ili korišćenjem ove aplikacije automatski prihvatate naše Uslove korišćenja i Politiku privatnosti. Ovaj softver radi potpuno oflajn, poštuje vašu privatnost i ne prikuplja lične podatke, prateći isključivo anonimnu analitiku korišćenja.
 
 <div align="center">
   <a href="SUPPORT.md#srpski-latinica">
@@ -120,7 +120,7 @@ Preuzimanjem, instalacijom ili korišćenjem ove aplikacije automatski prihvatat
 * **Térképadatok licence:** OpenStreetMap közreműködők ([ODbL v1.0](DATA_LICENSE.md#magyar))
 * **Vektoros ikonok**: Az [SVG Repo](https://svgrepo.com) oldaláról származnak és módosítva lettek (Nyílt forráskódú/CC0 licencek alatt terjesztve)
 
-Az alkalmazás letöltésével, telepítésével vagy használatával Ön automatikusan elfogadja a Felhasználási feltételeket és az Adatvédelmi nyilatkozatot. Az alkalmazás teljesen offline működik, nem gyűjt személyes adatokat és nem követi a felhasználókat.
+Az alkalmazás letöltésével, telepítésével vagy használatával Ön automatikusan elfogadja a Felhasználási feltételeket és az Adatvédelmi nyilatkozatot. Ez a szoftver teljesen offline működik, tiszteletben tartja az Ön magánéletét, nem gyűjt személyes adatokat, és kizárólag anonim használati analitikát követ.
 
 <div align="center">
   <a href="SUPPORT.md#magyar">
@@ -136,7 +136,7 @@ Az alkalmazás letöltésével, telepítésével vagy használatával Ön automa
 * **Map Data License:** OpenStreetMap Contributors ([ODbL v1.0](DATA_LICENSE.md#english))
 * **Vector Icons**: Sourced and modified from [SVG Repo](https://svgrepo.com) (Distributed under open-source/CC0 licenses)
 
-By downloading, installing, or using this application, you automatically agree to our Terms of Service and Privacy Policy. This software operates entirely offline, respects your privacy, and does not collect any personal user data or track analytics.
+By downloading, installing, or using this application, you automatically agree to our Terms of Service and Privacy Policy. This software operates entirely offline, respects your privacy, and collects no personal data, tracking solely anonymous usage analytics.
 
 <div align="center">
   <a href="SUPPORT.md#english">
