@@ -86,7 +86,7 @@ Kорисници могу користити основне функције а
 
 Пренос аналитике је одвојен од локалних подсетника и података о мапама. Kорисници који желе да спрече мрежне захтеве аналитике могу користити одговарајуће контроле на уређају или мрежи како би их блокирали, иако апликација тренутно не пружа наменску опцију за искључивање аналитике унутар саме апликације.
 
-За питања о овој политици или пракси поступања са подацима у апликацији, можете контактирати издавача путем контакт информација наведених на званичној страници апликације на Microsoft Store-у или на страници пројекта.
+За питања о овој политици или пракси поступања са подацима у апликацији, можете контактирати издавача путем контакт информација наведених на званичној страници апликације на Microsoft Store-у, Google Play-у или на страници пројекта.
 
 Ова политика може бити ажурирана када се промене функције апликације или пракса поступања са подацима.
 
@@ -170,7 +170,7 @@ Lokalna podešavanja aplikacije i podešavanja podsetnika mogu se ukloniti brisa
 
 Prenos analitike je odvojen od lokalnih podsetnika i podataka o mapama. Korisnici koji žele da spreče mrežne zahteve analitike mogu koristiti odgovarajuće kontrole na uređaju ili mreži kako bi ih blokirali, iako aplikacija trenutno ne pruža namensku opciju za isključivanje analitike unutar same aplikacije.
 
-Za pitanja o ovoj politici ili praksi postupanja sa podacima u aplikaciji, možete kontaktirati izdavača putem kontakt informacija navedenih na zvaničnoj stranici aplikacije na Microsoft Store-u ili na stranici projekta.
+Za pitanja o ovoj politici ili praksi postupanja sa podacima u aplikaciji, možete kontaktirati izdavača putem kontakt informacija navedenih na zvaničnoj stranici aplikacije na Microsoft Store-u, Google Play-u ili na stranici projekta.
 
 Ova politika može biti ažurirana kada se promene funkcije aplikacije ili praksa postupanja sa podacima.
 
@@ -254,7 +254,7 @@ A helyi alkalmazásbeállítások és az emlékeztető beállítások eltávolí
 
 An analitikai adatok továbbítása elkülönül a helyi emlékeztetőktől és térképadatoktól. Azok a felhasználók, akik meg akarják akadályozni az analitikai hálózati kéréseket, megfelelő eszköz- vagy hálózati szabályozókkal blokkolhatják azokat, bár az alkalmazás jelenleg nem biztosít külön alkalmazáson belüli funkciót az analitika kikapcsolására.
 
-Az ezzel a szabályzattal vagy az alkalmazás adatkezelési gyakorlatával kapcsolatos kérdésekkel forduljon a kiadóhoz az alkalmazás Microsoft Store adatlapján vagy a projektoldalon megadott elérhetőségeken.
+Az ezzel a szabályzattal vagy az alkalmazás adatkezelési gyakorlatával kapcsolatos kérdésekkel forduljon a kiadóhoz az alkalmazás Microsoft Store adatlapján, Google Play adatlapján vagy a projektoldalon megadott elérhetőségeken.
 
 Ez a szabályzat frissülhet, ha az alkalmazás funkciói vagy adatkezelési gyakorlata megváltozik.
 
@@ -340,7 +340,7 @@ Local application preferences and reminder settings can be removed by clearing t
 
 Analytics transmission is separate from the local reminder and map data. Users who wish to prevent analytics network requests may use suitable device or network controls to block them, although the application does not currently provide a dedicated in-app analytics opt-out.
 
-For questions about this policy or the application's data practices, contact the publisher through the contact information provided on the application's Microsoft Store listing or project page.
+For questions about this policy or the application's data practices, contact the publisher through the contact information provided on the application's Microsoft Store listing, Google Play listing or project page.
 
 This policy may be updated when the application's features or data practices change.
 
