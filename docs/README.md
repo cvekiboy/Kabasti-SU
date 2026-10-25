@@ -1,7 +1,12 @@
+---
+layout: default
+css: /assets/style.css
+---
+
 # Kabasti-SU
 
 <p align="center">
-  <img src="images/Kabasti-SU_hero_full.svg" width="100%" alt="Kabasti-SU">
+  <img src="images/Kabasti-SU_hero_full.svg" width="100%" alt="Kabasti-SU" class="no-invert">
 </p>
 
 Application displaying the locations and dates for the collection and removal of bulky waste by the [Public Utility Company](https://www.cistoca-su.co.rs) in the territory of the city of Subotica.
