@@ -1,15 +1,18 @@
 # Kabasti-SU
 
 <p align="center">
-  <img src="images/frontpic.png" alt="frontpic" width="371">
+  <img src="images/Kabasti-SU_hero_full.svg" width="100%" alt="Kabasti-SU">
 </p>
 
 Application displaying the locations and dates for the collection and removal of bulky waste by the [Public Utility Company](https://www.cistoca-su.co.rs) in the territory of the city of Subotica.
 
-***Features***:
+Main feature: **SET & FORGET**
+
+***Other functionalities***:
 + Offline/Online installation and usage
 + Followings filter
 + Reminder notifications
++ Possibility to set notification of the publication of a new schedule
 + Fullscreen toggle (F11/Esc)
 + Trilingual support: Serbian (Cyrillic / Latin), Hungarian, and English 
 
@@ -42,10 +45,13 @@ To completely remove all user settings from an MS Store application after uninst
   <summary>🇷🇸 СРБ</summary>
 Апликација приказа позиција и датума прикупљања и одвожења кабастог отпада од стране <a href="https://www.cistoca-su.co.rs">Јавног комунланог предузећа</a> на територији града Суботице.
 
-***Функције***:
+Главнa карактеристика: **ПОСТАВИ и ЗАБОРАВИ**
+
+***Остале функције***:
 + Офлајн/онлајн инсталација и коришћење
 + Филтер праћења
 + Подсетници у виду обавештења
++ Могућност обавештавања о објави новог плана
 + Пребацивање преко целог екрана (F11/Esc)
 + Тројезична подршка: Српски (Ћирилица / Латиница), Мађарски и Енглески 
 
@@ -55,10 +61,13 @@ To completely remove all user settings from an MS Store application after uninst
   <summary>🇷🇸 SRB</summary>
 Apilikacija prikaza pozicija i datuma prikupljanja i odvoženja kabastog otpada od strane <a href="https://www.cistoca-su.co.rs/lat">Javnog komunalnog preduzeća</a> na teritoriji grada Subotice.
 
-***Funkcije***:
+Glavna karаkteristika: **POSTAVI i ZABORAVI**
+
+***Ostale funkcije***:
 + Oflajn/onlajn instalacija i korišćenje
 + Filter praćenja
 + Podsetnici u vidu obaveštenja
++ Mugućnost obaveštavanja o objavi novog plana
 + Prebacivanje preko celog ekrana (F11/Esc)
 + Trojezična podrška: Srpski (Ćirilica / Latinica), Mađarski i Engleski 
 
@@ -68,10 +77,13 @@ Napomena: Ovo je nezavisna korisnička alatka i nije zvanična aplikacija lokaln
   <summary>🇭🇺 HU</summary>
 Alkalmazás, amely megjeleníti a lombtalanítási és a nagyméretű hulladékgyűjtési helyszíneket és időpontokat a <a href="https://www.cistoca-su.co.rs/hu">Közműszolgáltató Vállalat</a> által Szabadka Város területén.
 
-***Funkciók***:
+Fő funkció: **BEÁLLÍTÁS és FELEJTÉS**
+
+***Egyéb funkciók***:
 + Offline/online telepítés és használat
 + Nyomon követési szűrő
 + Értesítési emlékeztetők
++ Lehetőség az új terv közzétételéről szóló értesítésre
 + Teljes képernyős váltás (F11/Esc)
 + Háromnyelvű támogatás: Szerb (cirill / latin), Magyar és Angol 
 

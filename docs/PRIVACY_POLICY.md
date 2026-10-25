@@ -75,9 +75,9 @@ https://policies.google.com/privacy
 
 * **Обавештење о дериватној бази података:** Ресурс `subotica.pmtiles` је *Дериватна база података* која садржи модификоване географске податке преузете са [OpenStreetMap](https://openstreetmap.org).
 * **Отвореност и независност података:** За разлику од власничког софтверског кода апликације, ова база података представља отворене податке, који су строго регулисани лиценцом [Open Data Commons Open Database License (ODbL) v1.0](https://opendatacommons.org).
-* **Права на преузимање и измене:** Корисници имају право да копирају, дистрибуирају, преносе и прилагођавају ову базу података. Можете преузети ову компоненту директно преко [subotica.pmtiles](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/OSM-Data/subotica.pmtiles) путање репозиторијума. Све измене морају бити дељене под потпуно истим условима ODbL лиценце.
+* **Права на преузимање и измене:** Корисници имају право да копирају, дистрибуирају, преносе и прилагођавају ову базу података. Можете преузети ову компоненту директно преко [subotica.pmtiles](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/docs/OSM-Data/subotica.pmtiles) путање репозиторијума. Све измене морају бити дељене под потпуно истим условима ODbL лиценце.
 * **Обавезно правно навођење аутора:** Географски подаци © корисници [OpenStreetMap](https://www.openstreetmap.org/copyright)-а.
-* **Локализовани услови:** За комплетне локалне дефиниције и језичка својства погледајте фајл [DATA_LICENSE.md](https://github.com/cvekiboy/Kabasti-SU/blob/main/DATA_LICENSE.md#српски-ћирилица) у нашем репозиторијуму.
+* **Локализовани услови:** За комплетне локалне дефиниције и језичка својства погледајте фајл [DATA_LICENSE.md](https://github.com/cvekiboy/Kabasti-SU/blob/main/docs/DATA_LICENSE.md#српски-ћирилица) у нашем репозиторијуму.
 
 ### 6. Kонтрола података и контакт
 Kорисници могу користити основне функције апликације без креирања налога или давања свог имена или имејл адресе.
@@ -159,9 +159,9 @@ Ova aplikacija sadrži i strimuje prateći geografski resurs (`subotica.pmtiles`
 
 * **Obaveštenje o derivatnoj bazi podataka:** Resurs `subotica.pmtiles` je *Derivatna baza podataka* koja sadrži modifikovane geografske podatke preuzete sa [OpenStreetMap](https://openstreetmap.org).
 * **Otvorenost i nezavisnost podataka:** Za razliku od vlasničkog softverskog koda aplikacije, ova baza podataka predstavlja otvorene podatke, koji su strogo regulisani licencom [Open Data Commons Open Database License (ODbL) v1.0](https://opendatacommons.org).
-* **Prava na preuzimanje i izmene:** Korisnici imaju pravo da kopiraju, distribuiraju, prenose i prilagođavaju ovu bazu podataka. Možete preuzeti ovu komponentu direktno preko [subotica.pmtiles](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/OSM-Data/subotica.pmtiles) putanje repozitorijuma. Sve izmene moraju biti deljene pod potpuno istim uslovima ODbL licence.
+* **Prava na preuzimanje i izmene:** Korisnici imaju pravo da kopiraju, distribuiraju, prenose i prilagođavaju ovu bazu podataka. Možete preuzeti ovu komponentu direktno preko [subotica.pmtiles](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/docs/OSM-Data/subotica.pmtiles) putanje repozitorijuma. Sve izmene moraju biti deljene pod potpuno istim uslovima ODbL licence.
 * **Obavezno pravno navođenje autora:** Geografski podaci © korisnici [OpenStreetMap](https://www.openstreetmap.org/copyright)-a.
-* **Lokalizovani uslovi:** Za kompletne lokalne definicije i jezička svojstva pogledajte fajl [DATA_LICENSE.md](https://github.com/cvekiboy/Kabasti-SU/blob/main/DATA_LICENSE.md#srpski-latinica) u našem repozitorijumu.
+* **Lokalizovani uslovi:** Za kompletne lokalne definicije i jezička svojstva pogledajte fajl [DATA_LICENSE.md](https://github.com/cvekiboy/Kabasti-SU/blob/main/docs/DATA_LICENSE.md#srpski-latinica) u našem repozitorijumu.
 
 ### 6. Kontrola podataka i kontakt
 Korisnici mogu koristiti osnovne funkcije aplikacije bez kreiranja naloga ili davanja svog imena ili imejl adrese.
@@ -243,9 +243,9 @@ Ez az alkalmazás magában foglal és streamel egy kísérő földrajzi állomá
 
 * **Származtatott adatbázisra vonatkozó megjegyzés:** A `subotica.pmtiles` állomány egy *Származtatott adatbázis* amely az [OpenStreetMap](https://openstreetmap.org)oldalról származó, módosított földrajzi adatokat tartalmaz.
 * **Adatok nyíltsága és függetlensége:** Az alkalmazás tulajdonosi szoftverkódjától eltérően ez az adatbázis nyílt adat, amelyet szigorúan az [Open Data Commons Open Database License (ODbL) v1.0](https://opendatacommons.org) szabályoz. 
-* **Letöltési és módosítási jogok:** A felhasználóknak joguk van ezen alapuló állomány másolására, terjesztésére, továbbítására és adaptálására. Az összetevőt közvetlenül letöltheti a következő elérési [subotica.pmtiles](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/OSM-Data/subotica.pmtiles) repozitórium úton. Bármilyen módosítást pontosan ugyanazon ODbL licencfeltételek mellett kell megosztani.
+* **Letöltési és módosítási jogok:** A felhasználóknak joguk van ezen alapuló állomány másolására, terjesztésére, továbbítására és adaptálására. Az összetevőt közvetlenül letöltheti a következő elérési [subotica.pmtiles](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/docs/OSM-Data/subotica.pmtiles) repozitórium úton. Bármilyen módosítást pontosan ugyanazon ODbL licencfeltételek mellett kell megosztani.
 * **Kötelező jogi forrásmegjelölés:** Map data © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors.
-* **Helyi feltételek:** A teljes helyi definíciókért és nyelvi tulajdonságokért tekintse meg a repozitóriumunkban található [DATA_LICENSE.md](https://github.com/cvekiboy/Kabasti-SU/blob/main/DATA_LICENSE.md#magyar) fájlt.
+* **Helyi feltételek:** A teljes helyi definíciókért és nyelvi tulajdonságokért tekintse meg a repozitóriumunkban található [DATA_LICENSE.md](https://github.com/cvekiboy/Kabasti-SU/blob/main/docs/DATA_LICENSE.md#magyar) fájlt.
 
 ## 6. Adatkezelés és kapcsolat
 A felhasználók fiók létrehozása, valamint nevük vagy e-mail címük megadása nélkül is használhatják az alkalmazás alapvető funkcióit.
@@ -329,9 +329,9 @@ This application bundles and streams a companion geographic asset (`subotica.pmt
 
 * **Derivative Database Notice:** The `subotica.pmtiles` asset is a *Derivative Database* containing modified geographic data sourced from [OpenStreetMap](https://openstreetmap.org).
 * **Data Openness & Independence:** Unlike the proprietary application software code, this database is open data, strictly governed by the [Open Data Commons Open Database License (ODbL) v1.0](https://opendatacommons.org). 
-* **Download & Modification Rights:** Users have the right to copy, distribute, transmit, and adapt this underlying asset. You can download the component directly via the [subotica.pmtiles](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/OSM-Data/subotica.pmtiles) Repository Path. Any modifications must be shared under the exact same ODbL license terms.
+* **Download & Modification Rights:** Users have the right to copy, distribute, transmit, and adapt this underlying asset. You can download the component directly via the [subotica.pmtiles](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/docs/OSM-Data/subotica.pmtiles) Repository Path. Any modifications must be shared under the exact same ODbL license terms.
 * **Mandatory Legal Attribution:** Map data © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors.
-* **Localized Terms:** For complete local definitions and language properties, see our repository [DATA_LICENSE.md](https://github.com/cvekiboy/Kabasti-SU/blob/main/DATA_LICENSE.md#english).
+* **Localized Terms:** For complete local definitions and language properties, see our repository [DATA_LICENSE.md](https://github.com/cvekiboy/Kabasti-SU/blob/main/docs/DATA_LICENSE.md#english).
 
 ## 6. Data Control & Contact
 Users can use the application's core features without creating an account or providing their name or email address.

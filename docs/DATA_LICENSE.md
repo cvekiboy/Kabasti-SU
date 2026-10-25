@@ -20,7 +20,7 @@ Select your language / Изаберите језик / Izaberite jezik / Válass
 Географски подаци © корисници [OpenStreetMap](https://www.openstreetmap.org/copyright)-а
 
 ### Ваша права и обавезе
-Слободни сте да копирате, дистрибуирате, преносите и прилагођавате овај [PMTiles скуп података](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/OSM-Data/subotica.pmtiles), под условом да:
+Слободни сте да копирате, дистрибуирате, преносите и прилагођавате овај [PMTiles скуп података](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/docs/OSM-Data/subotica.pmtiles), под условом да:
 1. **Наведете извор (Attribute):** Јасно наведете и дате кредит OpenStreetMap корисницима.
 2. **Делите под истим условима (Share-Alike):** Ако измените, трансформишете или надградите ове податке, резултат морате објавити под потпуно истом ODbL v1.0 лиценцом.
 
@@ -41,7 +41,7 @@ Ovi podaci su licencirani pod **Open Data Commons Open Database License (ODbL) v
 Geografski podaci © korisnici [OpenStreetMap](https://www.openstreetmap.org/copyright)-a
 
 ### Vaša prava i obaveze
-Slobodni ste da kopirate, distribuirate, prenosite i prilagođavate ovaj [PMTiles skup podataka](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/OSM-Data/subotica.pmtiles), pod uslovom da:
+Slobodni ste da kopirate, distribuirate, prenosite i prilagođavate ovaj [PMTiles skup podataka](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/docs/OSM-Data/subotica.pmtiles), pod uslovom da:
 1. **Navedete izvor (Attribute):** Jasno navedete i date kredit OpenStreetMap korisnicima.
 2. **Delite pod istim uslovima (Share-Alike):** Ako izmenite, transformišete ili nadogradite ove podatke, rezultat morate objaviti pod potpuno istom ODbL v1.0 licencom.
 
@@ -62,7 +62,7 @@ Ez az adat a **Open Data Commons Open Database License (ODbL) v1.0** hatálya al
 Térképadatok © [OpenStreetMap](https://www.openstreetmap.org/copyright) közreműködők
 
 ### Az Ön jogai és kötelezettségei
-Ön szabadon másolhatja, terjesztheti, továbbíthatja és adaptálhatja ezt a [PMTiles adatkészletet](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/OSM-Data/subotica.pmtiles), amennyiben betartja a következőket:
+Ön szabadon másolhatja, terjesztheti, továbbíthatja és adaptálhatja ezt a [PMTiles adatkészletet](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/docs/OSM-Data/subotica.pmtiles), amennyiben betartja a következőket:
 1. **Forrásmegjelölés (Attribute):** Egyértelműen elismeri az OpenStreetMap közreműködőinek munkáját.
 2. **Megosztás azonos feltételekkel (Share-Alike):** Ha módosítja, átalakítja vagy továbbfejleszti ezeket az adatokat, a kapott eredményt pontosan ugyanezen ODbL v1.0 licenc alatt kell közzétennie.
 
@@ -83,7 +83,7 @@ This data is licensed under the **Open Data Commons Open Database License (ODbL)
 Map data © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors
 
 ### Your Rights and Obligations
-You are free to copy, distribute, transmit, and adapt this [PMTiles dataset](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/OSM-Data/subotica.pmtiles), as long as you:
+You are free to copy, distribute, transmit, and adapt this [PMTiles dataset](https://raw.githubusercontent.com/cvekiboy/Kabasti-SU/main/docs/OSM-Data/subotica.pmtiles), as long as you:
 1. **Attribute**: Give clear credit to OpenStreetMap contributors.
 2. **Share-Alike**: If you alter, transform, or build upon this data, you must release the resulting data under the exact same ODbL v1.0 license.
 
