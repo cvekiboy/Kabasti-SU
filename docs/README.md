@@ -6,7 +6,7 @@
 
 <p align="center">
   <object data="images/Kabasti-SU_hero_full.svg" type="image/svg+xml" width="100%">
-    <img src="images/Kabasti-SU_hero_full.svg" alt="LOGO">
+    <img src="images/Kabasti-SU_hero_full.svg" alt="Kabasti-SU">
   </object>
 </p>
 
