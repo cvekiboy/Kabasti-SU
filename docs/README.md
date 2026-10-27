@@ -56,6 +56,21 @@ To completely remove all user settings from an MS Store application after uninst
 + Тројезична подршка: Српски (Ћирилица / Латиница), Мађарски и Енглески 
 
 Напомена: Ово је независна корисничка алатка и није званична апликација локалне самоуправе или комуналног предузећа.
+
+## ⚖️ Лиценца и Услови
+* **Лиценца апликације:** Власнички бесплатни софтвер ([Детаљни услови](TERMS_OF_SERVICE.md#српски-ћирилица))
+* **Политика приватности:** Потпуно одсуство прикупљања података ([Политика приватности](PRIVACY_POLICY.md#српски-ћирилица))
+* **Лиценца за географске податке:** Аутори OpenStreetMap-а ([ODbL v1.0](DATA_LICENSE.md#српски-ћирилица))
+* **Векторске иконице**: Преузете и модификоване са сајта [SVG Repo](https://svgrepo.com) (Дистрибуиране под open-source/CC0 лиценцама)
+
+Преузимањем, инсталацијом или коришћењем ове апликације аутоматски прихватате наше Услове коришћења и Политику приватности. Овај софтвер ради потпуно офлајн, поштује вашу приватност и не прикупља личне податке, пратећи искључиво анонимну аналитику коришћења.
+
+<div align="center">
+  <a href="SUPPORT.md#српски-ћирилица">
+    <kbd>✉️ Контакт | Подршка 🤝</kbd>
+  </a>
+</div>
+
 </details>
 <details>
   <summary>🇷🇸 SRB</summary>
@@ -72,6 +87,21 @@ Glavna karаkteristika: **POSTAVI i ZABORAVI**
 + Trojezična podrška: Srpski (Ćirilica / Latinica), Mađarski i Engleski 
 
 Napomena: Ovo je nezavisna korisnička alatka i nije zvanična aplikacija lokalne samouprave ili komunalnog preduzeća.
+
+## ⚖️ Licenca i Uslovi
+* **Licenca aplikacije:** Vlasnički besplatni softver ([Detaljni uslovi](TERMS_OF_SERVICE.md#srpski-latinica))
+* **Politika privatnosti:** Potpuno odsustvo prikupljanja podataka ([Politika privatnosti](PRIVACY_POLICY.md#srpski-latinica))
+* **Licenca za geografske podatke:** Autori OpenStreetMap-a ([ODbL v1.0](DATA_LICENSE.md#srpski-latinica))
+* **Vektorske ikonice**: Preuzete i modifikovane sa sajta [SVG Repo](https://svgrepo.com) (Distribuirane pod open-source/CC0 licencama)
+
+Preuzimanjem, instalacijom ili korišćenjem ove aplikacije automatski prihvatate naše Uslove korišćenja i Politiku privatnosti. Ovaj softver radi potpuno oflajn, poštuje vašu privatnost i ne prikuplja lične podatke, prateći isključivo anonimnu analitiku korišćenja.
+
+<div align="center">
+  <a href="SUPPORT.md#srpski-latinica">
+    <kbd>✉️ Kontakt | Podrška 🤝</kbd>
+  </a>
+</div>
+
 </details>
 <details>
   <summary>🇭🇺 HU</summary>
@@ -88,45 +118,8 @@ Fő funkció: **BEÁLLÍTÁS és FELEJTÉS**
 + Háromnyelvű támogatás: Szerb (cirill / latin), Magyar és Angol 
 
 Megjegyzés: Ez egy független felhasználói segédeszköz, és nem a helyi önkormányzat vagy a közműszolgáltató vállalat hivatalos alkalmazása.
-</details>
 
----
-
-## ⚖️ Лиценца и Услови / Licenca i Uslovi / Licenc és Feltételek / License & Terms
-
-### СРПСКИ (Ћирилица)
-* **Лиценца апликације:** Власнички бесплатни софтвер ([Детаљни услови](TERMS_OF_SERVICE.md#српски-ћирилица))
-* **Политика приватности:** Потпуно одсуство прикупљања података ([Политика приватности](PRIVACY_POLICY.md#српски-ћирилица))
-* **Лиценца за географске податке:** Аутори OpenStreetMap-а ([ODbL v1.0](DATA_LICENSE.md#српски-ћирилица))
-* **Векторске иконице**: Преузете и модификоване са сајта [SVG Repo](https://svgrepo.com) (Дистрибуиране под open-source/CC0 лиценцама)
-
-Преузимањем, инсталацијом или коришћењем ове апликације аутоматски прихватате наше Услове коришћења и Политику приватности. Овај софтвер ради потпуно офлајн, поштује вашу приватност и не прикупља личне податке, пратећи искључиво анонимну аналитику коришћења.
-
-<div align="center">
-  <a href="SUPPORT.md#српски-ћирилица">
-    <kbd>✉️ Контакт | Подршка 🤝</kbd>
-  </a>
-</div>
-
----
-
-### SRPSKI (Latinica)
-* **Licenca aplikacije:** Vlasnički besplatni softver ([Detaljni uslovi](TERMS_OF_SERVICE.md#srpski-latinica))
-* **Politika privatnosti:** Potpuno odsustvo prikupljanja podataka ([Politika privatnosti](PRIVACY_POLICY.md#srpski-latinica))
-* **Licenca za geografske podatke:** Autori OpenStreetMap-a ([ODbL v1.0](DATA_LICENSE.md#srpski-latinica))
-* **Vektorske ikonice**: Preuzete i modifikovane sa sajta [SVG Repo](https://svgrepo.com) (Distribuirane pod open-source/CC0 licencama)
-
-Preuzimanjem, instalacijom ili korišćenjem ove aplikacije automatski prihvatate naše Uslove korišćenja i Politiku privatnosti. Ovaj softver radi potpuno oflajn, poštuje vašu privatnost i ne prikuplja lične podatke, prateći isključivo anonimnu analitiku korišćenja.
-
-<div align="center">
-  <a href="SUPPORT.md#srpski-latinica">
-    <kbd>✉️ Kontakt | Podrška 🤝</kbd>
-  </a>
-</div>
-
----
-
-### MAGYAR
+## ⚖️ Licenc és Feltételek
 * **Alkalmazás licenc:** Tulajdonosi ingyenes szoftver ([Részletes feltételek](TERMS_OF_SERVICE.md#magyar))
 * **Adatvédelmi irányelvek:** Teljes körű adatgyűjtés-mentesség ([Adatvédelmi nyilatkozat](PRIVACY_POLICY.md#magyar))
 * **Térképadatok licence:** OpenStreetMap közreműködők ([ODbL v1.0](DATA_LICENSE.md#magyar))
@@ -140,9 +133,11 @@ Az alkalmazás letöltésével, telepítésével vagy használatával Ön automa
   </a>
 </div>
 
+</details>
+
 ---
 
-### ENGLISH
+## ⚖️ License & Terms
 * **Application License:** Proprietary Freeware ([Full Terms](TERMS_OF_SERVICE.md#english))
 * **Privacy Framework:** Zero Data Collection ([Privacy Policy](PRIVACY_POLICY.md#english))
 * **Map Data License:** OpenStreetMap Contributors ([ODbL v1.0](DATA_LICENSE.md#english))
@@ -155,5 +150,4 @@ By downloading, installing, or using this application, you automatically agree t
     <kbd>✉️ Contact | Support 🤝</kbd>
   </a>
 </div>
-
 
